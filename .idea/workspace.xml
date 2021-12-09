@@ -24,6 +24,8 @@
         <entry key="JPA Inspector" value="true" />
         <entry key="JPA Palette" value="true" />
         <entry key="JPA Structure" value="true" />
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
@@ -32,6 +34,8 @@
         <entry key="JPA Inspector" value="false" />
         <entry key="JPA Palette" value="false" />
         <entry key="JPA Structure" value="true" />
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
@@ -59,7 +63,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RentalAppApiUsers/src/main/java/com/appsdeveloperblog/rentalapp/api/users/rentalappapiusers/core/utilities" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -70,11 +75,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\muhammet.saglam\Desktop\rentalCarMs-main\RentalAppApiUsers\src\main\java\com\appsdeveloperblog\rentalapp\api\users\rentalappapiusers\core\utilities" />
+      <recent name="C:\Users\muhammet.saglam\Desktop\rentalCarMs-main" />
       <recent name="C:\Users\emin.sahan\Documents\12.6.2021.rental\RentalAppApiRentals\src\main\java\com\appsdeveloperblog\rentalapp\api\rentals\controllers" />
       <recent name="C:\Users\emin.sahan\Documents\12.6.2021.rental\RentalAppApiRentals\src\main\java\com\appsdeveloperblog\rentalapp\api\rentals\models\color" />
       <recent name="C:\Users\emin.sahan\Documents\12.6.2021.rental\RentalAppApiRentals\src\main\java\com\appsdeveloperblog\rentalapp\api\rentals\models\car" />
-      <recent name="C:\Users\emin.sahan\Documents\12.6.2021.rental\RentalAppApiRentals\src\main\java\com\appsdeveloperblog\rentalapp\api\rentals\models\brand" />
-      <recent name="C:\Users\emin.sahan\Documents\12.6.2021.rental\RentalAppApiRentals\src\main\java\com\appsdeveloperblog\rentalapp\api\rentals\business\concretes" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.appsdeveloperblog.rentalapp.api.rentals.core.utilities.bussines" />
@@ -87,7 +92,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.RentalAppApiRentalsApplication">
+  <component name="RunManager" selected="Spring Boot.RentalAppApiUsersApplication (1)">
     <configuration name="ApiGetewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.rentalapp.api.geteway.ApiGetewayApplication" />
       <module name="ApiGeteway" />
@@ -135,6 +140,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RentalAppApiUsersApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="RentalAppApiUsers" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.appsdeveloperblog.rentalapp.api.users.rentalappapiusers.RentalAppApiUsersApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalAppApiUsersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="RentalAppApiUsers" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rentalappapiusers.RentalAppApiUsersApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RentalAppDiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="RentalAppDiscoveryService" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.appsdeveloperblok.rentalapp.discovery.RentalAppDiscoveryServiceApplication" />
@@ -160,6 +179,8 @@
       <workItem from="1638959131745" duration="10562000" />
       <workItem from="1638973419469" duration="1939000" />
       <workItem from="1638987683396" duration="2271000" />
+      <workItem from="1639039444011" duration="701000" />
+      <workItem from="1639046195620" duration="10789000" />
     </task>
     <servers />
   </component>
